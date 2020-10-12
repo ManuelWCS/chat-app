@@ -1,7 +1,7 @@
 /* Component enclosing tag */
 .Contact {
     padding: 1em;
-    background: #555;
+    background: lightgray;
     width: 220px;
     display: flex;
     align-items: center;
