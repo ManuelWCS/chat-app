@@ -37,7 +37,7 @@ const users = [
         <Contact name = {user.name} avatar = {user.avatar} online ={user.online} key={index}/>
 
           ))}
-          
+            
 
 
 
