@@ -9,6 +9,8 @@ class Contact extends React.Component {
     };
   }
 
+  
+
   render() {
     return (
       <figure className="Contact">
